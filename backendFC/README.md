@@ -8,16 +8,10 @@ NodeJS + Express API for TFG project. It uses MongoDB as database.
 
 # Getting started
 
-- Clone the repository
-
-```
-git clone https://github.com/pabloJordan24/TFG-2022/backendFC
-```
-
 - Install dependencies
 
 ```
-cd backend
+cd TFG-2022/backendFC
 npm install
 ```
 
