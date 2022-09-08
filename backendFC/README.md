@@ -27,9 +27,6 @@ Navigate to `http://localhost:3003`. Problem? You will need .env file.
 
 /api-doc
 
-# Getting started 2
-
-You can fire up our API by clicking [here](https://reloop-back.herokuapp.com/api-doc)
 
 ## Project Structure
 
