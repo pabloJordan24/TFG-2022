@@ -1,6 +1,6 @@
 # REFUEL
 
-NodeJS + Express API for our STW project. It uses MongoDB as database.
+NodeJS + Express API for TFG project. It uses MongoDB as database.
 
 # Pre-requisites
 
@@ -11,7 +11,7 @@ NodeJS + Express API for our STW project. It uses MongoDB as database.
 - Clone the repository
 
 ```
-git clone https://github.com/STW2022/backend
+git clone https://github.com/pabloJordan24/TFG-2022/backendFC
 ```
 
 - Install dependencies
@@ -48,6 +48,5 @@ The folder structure of this app is explained below:
 | **src/controllers** | Controllers define functions to serve various express routes.                                              |
 | **src/routes**      | Contain all express routes with endpoint documentation.                                                    |
 | **src/models**      | Models define schemas that will be used in storing and retrieving data from Application database (MongoDB) |
-| **src/cron**        | Where periodic work is implemented                                                                         |
 | app.js              | Entry point to express app                                                                                 |
 | package.json        | Contains npm dependencies                                                                                  |
